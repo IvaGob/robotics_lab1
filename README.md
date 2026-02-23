@@ -15,7 +15,7 @@ To run this project, you need:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/IvaGob/robotics_lab1.git](https://github.com/IvaGob/robotics_lab1.git)
+git clone https://github.com/IvaGob/robotics_lab1.git
 cd robotics_lab1
 ```
 ### 2. Build Docker Image
